@@ -1,4 +1,3 @@
-pullreq
-=======
+# Hello, Pull Request
 
-learning http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/
+learning for http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/
